@@ -1,0 +1,46 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.sln.ide
+.idea/
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# ASP.NET Scaffolding
+.scaffolding
+
+# Entity Framework Migrations
+Migrations/*Snapshot.cs
+
+# SQLite database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Log files
+*.log
+logs/
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# ASP.NET specific
+appsettings*.json
+
+# Other
+*.swp

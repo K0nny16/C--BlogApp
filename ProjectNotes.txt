@@ -1,0 +1,5 @@
+1:Har skapat ett ASP.NET projekt som är ett lättviktigt sätt att bygga API som är crossplatform.
+2:Jag använder mig av Entity framework vilket liknar (än så länge) Entitys i spring.
+Det är av samma anledning som i spring det är för att det ska kunna va en brygga mellan programmet och databasen.
+3: Har valt att testa något nytt vilket var SQLite har funkat rätt enklet hittils men saknar lite det visuella med att inte kunna se tabellerna.
+4: Skapat en Context klass där vi definerar strukturen av databasen 
